@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=FFFFFF&width=435&lines=Hello+There;Welcome+to+Bishmit's+profile&center=true"/>
 </p>
 
-Aspiring game programmer with a passion for creating games and simulations. Enthusiastic about C++, low-level programming, and problem-solving.
+I'm Enthusiastic about C++, Game-Programming, Simulation, Low-level development, and Problem-solving. I mainly enjoy doing these things. 
 
 ## About Me
 
