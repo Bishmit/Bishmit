@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=FFFFFF&width=435&lines=Hello+There;Welcome+to+Bishmit's+profile&center=true"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=FFFFFF&width=435&lines=Hello+There...;Welcome+to+my+profile&center=true"/>
 </p>
 
 I'm Enthusiastic about C++, Game-Programming, Simulation, Low-level development, and Problem-solving. I mainly enjoy doing these things. 
@@ -33,7 +33,7 @@ I'm Enthusiastic about C++, Game-Programming, Simulation, Low-level development,
 
 <h3>Language and Tools</h3>
 <img
-    src="https://skillicons.dev/icons?i=cpp,c,cs,python,git,github,html,css,javascript,django,cmake,unity,blender&perline=10" />
+    src="https://skillicons.dev/icons?i=cpp,c,cs,python,git,github,mysql,html,css,javascript,django,cmake,unity,blender,photoshop&perline=10" />
     <hr/>
 <table align="center">
     <tr>
