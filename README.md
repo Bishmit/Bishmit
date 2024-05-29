@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=FFFFFF&width=435&lines=Hello+There...;Welcome+to+my+profile&center=true"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=32CD32&width=435&lines=Hello+There...;Welcome+to+my+profile&center=true"/>
 </p>
 
 I'm Enthusiastic about C++, Game-Programming, Simulation, Low-level development, and Problem-solving. I mainly enjoy doing these things. 
