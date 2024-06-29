@@ -1,8 +1,5 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=32CD32&width=435&lines=Hello+There...;Welcome+to+my+profile&center=true"/>
-    <p align="center">
-        <img src="marin.gif" alt="Profile GIF" width="210" height="210"/>
-    </p>
 </p>
  
 <i><b>I'm Enthusiastic about C++, Game-Programming, Simulation, Low-level development, and Problem-solving. I mainly enjoy doing these things</b></i>
