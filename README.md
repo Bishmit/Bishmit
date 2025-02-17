@@ -1,31 +1,33 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=32CD32&width=435&lines=Hello+There...;Welcome+to+my+profile&center=true"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=FFFFFF&width=435&lines=Hello+There...;Welcome+to+my+profile&center=true"/>
 </p>
 
 ## About Me
 💻 Passionate about <i>C++</i> & <i>low-level programming</i><br>
 🧩 Enjoy solving <i>complex problems</i><br>
 🛠️ Familiar with <i>SFML</i>, <i>Raylib</i> & <i>OpenGL</i><br>
-✍🏻 Above all I love <i>Mathematics</i>.
+✍🏻 But above all I love <i>Mathematics</i>.
 
 <h4 align="center">
-<a href="https://www.facebook.com/" target="_blank">
-<img alt="Facebook"
-src="https://img.shields.io/badge/Facebook-32CD32?style=for-the-badge&logo=facebook&logoColor=ffffff&labelColor=006400" />
-</a>
-<a href="https://www.instagram.com/bishmitregmi/" target="_blank">
-<img alt="Instagram"
-src="https://img.shields.io/badge/Instagram-32CD32?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=006400" />
-</a>
-<a href="https://www.youtube.com/channel/UCyoqVIV6FSTqxPWbmplJrjg" target="_blank">
-<img alt="Youtube"
-src="https://img.shields.io/badge/Youtube-32CD32?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=006400" />
-</a>
-<a href="mailto:bishmit@gmail.com" target="_blank">
-<img alt="Mail"
-src="https://img.shields.io/badge/Mail-32CD32?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=006400" />
-</a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img alt="Facebook"
+         src="https://img.shields.io/badge/Facebook-FFFFFF?style=for-the-badge&logo=facebook&logoColor=black&labelColor=FFFFFF" />
+  </a>
+  <a href="https://www.instagram.com/bishmitregmi/" target="_blank">
+    <img alt="Instagram"
+         src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black&labelColor=FFFFFF" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCyoqVIV6FSTqxPWbmplJrjg" target="_blank">
+    <img alt="Youtube"
+         src="https://img.shields.io/badge/Youtube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=black&labelColor=FFFFFF" />
+  </a>
+  <a href="mailto:bishmit@gmail.com" target="_blank">
+    <img alt="Mail"
+         src="https://img.shields.io/badge/Mail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=FFFFFF" />
+  </a>
 </h4>
+
+
 <hr/>
 
 ## Language and Tools
