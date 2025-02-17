@@ -1,14 +1,12 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=32CD32&width=435&lines=Hello+There...;Welcome+to+my+profile&center=true"/>
 </p>
- 
-<i><b>I'm Enthusiastic about C++, Game-Programming, Simulation, Low-level development, and Problem-solving. I mainly enjoy doing these things</b></i>
 
 ## About Me
 💻 Passionate about <i>C++</i> & <i>low-level programming</i><br>
 🧩 Enjoy solving <i>complex problems</i><br>
-🛠️ Familiar with <i>SFML</i>, <i>Raylib</i> & <i>OpenGL</i>
-📐e = ∑∞ⁿ⁼⁰ ¹ₙ 🧮 I love Mathematics and Physics
+🛠️ Familiar with <i>SFML</i>, <i>Raylib</i> & <i>OpenGL</i><br>
+✍🏻 Above all I love <i>Mathematics</i>.
 
 <h4 align="center">
 <a href="https://www.facebook.com/" target="_blank">
@@ -32,7 +30,7 @@ src="https://img.shields.io/badge/Mail-32CD32?style=for-the-badge&logo=gmail&log
 
 ## Language and Tools
 
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,lua,git,github,mysql,html,css,javascript,django,cmake,unity,blender,nodejs,bash,linux,neovim,md,photoshop&perline=10&theme=light" />
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,lua,git,github,mysql,html,css,javascript,django,cmake,unity,blender,nodejs,bash,linux,neovim&perline=10&theme=light" />
 <hr/>
 
 ## Stats
