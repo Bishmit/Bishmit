@@ -5,7 +5,7 @@
 ## About Me
 💻 Passionate about <i>C++</i> & <i>low-level programming</i><br>
 🧩 Enjoy solving <i>complex problems</i><br>
-🛠️ Familiar with <i>SFML</i>, <i>Raylib</i> & <i>OpenGL</i><br>
+🛠️ Familiar with <i>SFML</i>, <i>SDL</i> & <i>OpenGL</i><br>
 ✍🏻 But above all I love <i>Mathematics</i>.
 
 <h4 align="center">
