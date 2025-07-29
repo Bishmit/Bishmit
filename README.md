@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=FFFFFF&width=435&lines=Hello+There...;Welcome+to+my+profile&center=true"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=00FFFF&width=435&lines=Hello+There...;Welcome+to+my+profile&center=true"/>
 </p>
 
 ## About Me
 💻 Passionate about <i>C++</i> & <i>low-level programming</i><br>
 🧩 Enjoy solving <i>complex problems</i><br>
-🛠️ Familiar with <i>SFML</i>, <i>SDL</i> & <i>OpenGL</i><br>
+🛠️ Familiar with <i>SFML</i>, <i>SDL</i>, <i>OpenGL</i> & <i>Unity Game Engine</i><br>
 ✍🏻 But above all I love <i>Mathematics</i>.
 
 <h4 align="center">
@@ -37,26 +37,12 @@
 
 ## Stats
 <table align="center">
-<tr>
-<th colspan="2">
-</th>
-</tr>
-<tr>
-<td align="left">
-<img align="left" height="175vh" alt="Most-Used-Language"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Bishmit&show_icons=true&theme=tokyonight&layout=compact&bg_color=00000000" />
-</td>
-<td align="left">
-<img align="left" height="175vh" alt="Github-Stats"
-src="https://github-readme-stats.vercel.app/api?username=Bishmit&show_icons=true&theme=tokyonight&bg_color=00000000" />
-</td>
-</tr>
-<tr>
-<td align="left">
-<img align="left" height="175vh" alt="Profile-Overview"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Bishmit&theme=tokyonight&background=00000000" />
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <img height="175vh" alt="Github-Stats"
+        src="https://github-readme-stats.vercel.app/api?username=Bishmit&show_icons=true&theme=tokyonight&bg_color=00000000" />
+    </td>
+  </tr>
 </table>
 
 <hr />
